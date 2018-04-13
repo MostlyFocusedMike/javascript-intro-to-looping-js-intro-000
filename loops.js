@@ -13,4 +13,8 @@ function whileLoop(n) {
   return "done";
 }
 
-function doWhil
+function doWhileLoop(array) {
+  do {
+    array.pop;
+  } while (array)
+}
